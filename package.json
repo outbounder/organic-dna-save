@@ -1,5 +1,5 @@
 {
-  "name": "organic-dna-save",
+  "name": "'",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
@@ -25,5 +25,13 @@
     "mkdirp": "^0.5.0",
     "rimraf": "^2.2.8"
   },
-  "description": "Save existing inmemory dna structure within a folder respecting existing structure"
+  "description": "Save existing inmemory dna structure within a folder respecting existing structure",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/outbounder/organic-dna-save.git"
+  },
+  "bugs": {
+    "url": "https://github.com/outbounder/organic-dna-save/issues"
+  },
+  "homepage": "https://github.com/outbounder/organic-dna-save"
 }
