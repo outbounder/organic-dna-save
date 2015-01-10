@@ -1,0 +1,8 @@
+{
+  "public": [
+    "public",
+    "build",
+    "bower_components"
+  ],
+  "public/templates": [ "context/client/app/templates" ]
+}

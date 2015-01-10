@@ -1,0 +1,29 @@
+{
+  "name": "organic-dna-save",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "cp-r": "^0.1.2",
+    "mkdirp": "^0.5.0",
+    "mocha": "^2.1.0",
+    "organic-dna": "0.0.1",
+    "organic-dna-fsloader": "0.0.2",
+    "rimraf": "^2.2.8"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cp-r": "^0.1.2",
+    "chai": "^1.10.0",
+    "mkdirp": "^0.5.0",
+    "rimraf": "^2.2.8"
+  },
+  "description": "Save existing inmemory dna structure within a folder respecting existing structure"
+}
